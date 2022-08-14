@@ -1,0 +1,72 @@
+/* 
+--- 01 TYPOGRAPHY
+font sizes (px)
+10 / 12 / 14 / 16 / 18 / 20 / 24 / 30 / 36 / 44 / 52 / 62 / 74 / 86 / 98
+
+- font weights
+default: 400
+medium: 500
+semi-bold: 600
+bold: 700
+
+- line heights
+default: 1
+small: 1.05
+medium: 1.2
+paragraph default: 1.6
+Large: 1.8
+
+- Letter spacing
+0.5px
+0.75px
+
+--- 02 COLORS
+-primary: 
+#003049
+-text: 
+#d62828
+#f77f00
+#fcbf49
+#eae2b7
+-shades (of #f77f00):
+#c66600
+#944c00
+#633300
+-tints (of #f77f00):
+#f99933
+#fab266
+#fccc99
+*/
+
+body {
+  font-family: "Hind Guntur", sans-serif;
+  color: #eae2b7;
+  line-height: 1;
+  font-weight: 400;
+  background-color: #003049;
+
+  overflow-x: hidden;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Rokkitt", serif;
+  font-size: 30px;
+  color: #f77f00;
+  margin-bottom: 10px;
+}
+
+a:link,
+a:visited {
+  color: ;
+  text-decoration: none;
+}
+
+a:hover,
+a:active {
+  color: ;
+}
