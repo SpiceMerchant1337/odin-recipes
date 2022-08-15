@@ -1,0 +1,9 @@
+.mp-food-cont {
+  width: 220px;
+  height: auto;
+}
+
+.mp-food-cont img {
+  max-width: 100%;
+  height: auto;
+}
