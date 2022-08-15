@@ -22,41 +22,41 @@ Large: 1.8
 
 --- 02 COLORS
 -primary: 
-#003049
--text: 
-#d62828
-#f77f00
-#fcbf49
-#eae2b7
--shades (of #f77f00):
-#c66600
-#944c00
-#633300
--tints (of #f77f00):
-#f99933
-#fab266
-#fccc99
+#fefae0
+-secondary: 
+#ccd5ae
+#e9edc9
+#faedcd
+#d4a373
+-grays:
+#2b2d42
 */
 
 body {
   font-family: "Hind Guntur", sans-serif;
-  color: #eae2b7;
+  color: #2b2d42;
   line-height: 1;
   font-weight: 400;
-  background-color: #003049;
+  background-color: #fefae0;
 
   overflow-x: hidden;
 }
 
 h1,
-h2,
+h2 {
+  font-family: "Rokkitt", sans-serif;
+  font-size: 36px;
+  color: #264653;
+  margin-bottom: 10px;
+}
+
 h3,
 h4,
 h5,
 h6 {
-  font-family: "Rokkitt", serif;
+  font-family: "Rokkitt", sans-serif;
   font-size: 30px;
-  color: #f77f00;
+  color: #2b2d42;
   margin-bottom: 10px;
 }
 
