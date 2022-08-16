@@ -42,6 +42,15 @@ body {
   overflow-x: hidden;
 }
 
+header {
+  margin: auto;
+  text-align: center;
+}
+
+nav {
+  text-align: center;
+}
+
 h1,
 h2 {
   font-family: "Rokkitt", sans-serif;
@@ -64,4 +73,9 @@ h6 {
 a:link,
 a:visited {
   text-decoration: none;
+}
+
+.logo {
+  width: 150px;
+  height: auto;
 }
