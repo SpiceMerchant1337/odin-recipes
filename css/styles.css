@@ -7,3 +7,7 @@
   max-width: 100%;
   height: auto;
 }
+
+.mp-food {
+  border: 3px solid #d4a373;
+}
