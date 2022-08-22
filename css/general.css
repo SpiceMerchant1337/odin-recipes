@@ -51,6 +51,11 @@ nav {
   text-align: center;
 }
 
+.mp-container {
+  width: 1000px;
+  margin: 0 auto;
+}
+
 h1,
 h2 {
   font-family: "Rokkitt", sans-serif;
